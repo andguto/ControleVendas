@@ -13,18 +13,18 @@ namespace ControleVendasDAL.Classes
         public void GetUserByName(string strName, string strSenha)
         {
             ConnectionDAL clsConnectionDAL = new ConnectionDAL();
-            OleDbConnection dbConexao;
+            OleDbConnection dbConexao = clsConnectionDAL.ConectarBanco();
 
-            string dbDrive = "Provider=Microsoft.ACE.OLEDB.12.0;";
-            string Banco = "Data Source= " + Application.StartupPath + "\\ControleVendas.accdb";
-            dbConexao = new OleDbConnection(dbDrive + Banco);
+            //string dbDrive = "Provider=Microsoft.ACE.OLEDB.12.0;";
+            //string Banco = "Data Source= " + Application.StartupPath + "\\ControleVendas.accdb";
+            //dbConexao = new OleDbConnection(dbDrive + Banco);
             string selectSQL = "Select Codigo_Usuario, Nome_Usuario, Senha_Usuario " +
                                "From Usuarios " +
                                "Where Nome_Usuario = " + "'" + strName + "'" + " and Senha_Usuario = " + "'" + strSenha + "'";
 
             OleDbCommand command = new OleDbCommand(selectSQL, dbConexao);
-            dbConexao.Open();
-            //clsConnectionDAL.ConectarBanco();
+            //dbConexao.Open();
+           
 
             OleDbDataReader reader = command.ExecuteReader();
 

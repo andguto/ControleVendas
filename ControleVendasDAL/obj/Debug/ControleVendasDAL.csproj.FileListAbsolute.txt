@@ -3,3 +3,8 @@ D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendasDAL\bin\Deb
 D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendasDAL\obj\Debug\ControleVendasDAL.csprojResolveAssemblyReference.cache
 D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendasDAL\obj\Debug\ControleVendasDAL.dll
 D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendasDAL\obj\Debug\ControleVendasDAL.pdb
+D:\Projetos VS WEB\ControleVendas\ControleVendasDAL\bin\Debug\ControleVendasDAL.dll
+D:\Projetos VS WEB\ControleVendas\ControleVendasDAL\bin\Debug\ControleVendasDAL.pdb
+D:\Projetos VS WEB\ControleVendas\ControleVendasDAL\obj\Debug\ControleVendasDAL.csprojResolveAssemblyReference.cache
+D:\Projetos VS WEB\ControleVendas\ControleVendasDAL\obj\Debug\ControleVendasDAL.dll
+D:\Projetos VS WEB\ControleVendas\ControleVendasDAL\obj\Debug\ControleVendasDAL.pdb

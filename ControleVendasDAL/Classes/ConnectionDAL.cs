@@ -12,7 +12,7 @@ namespace ControleVendasDAL
 {
     public class ConnectionDAL
     {
-        public void ConectarBanco()
+        public OleDbConnection ConectarBanco()
         {
             OleDbConnection dbConexao;
             string dbDrive = "Provider=Microsoft.ACE.OLEDB.12.0;";
@@ -27,6 +27,8 @@ namespace ControleVendasDAL
             {
                 MessageBox.Show("Problemas ao conectar com o Banco de Dados");
             }
+
+            return dbConexao;
         }
 
         public void DesconectarBanco()
