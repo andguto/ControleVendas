@@ -1,0 +1,5 @@
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendasDAL\bin\Debug\ControleVendasDAL.dll
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendasDAL\bin\Debug\ControleVendasDAL.pdb
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendasDAL\obj\Debug\ControleVendasDAL.csprojResolveAssemblyReference.cache
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendasDAL\obj\Debug\ControleVendasDAL.dll
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendasDAL\obj\Debug\ControleVendasDAL.pdb

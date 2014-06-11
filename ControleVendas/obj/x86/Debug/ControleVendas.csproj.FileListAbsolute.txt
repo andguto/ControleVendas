@@ -1,0 +1,11 @@
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendas\bin\x86\Debug\ControleVendas.exe.config
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendas\bin\x86\Debug\ControleVendas.exe
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendas\bin\x86\Debug\ControleVendas.pdb
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendas\bin\x86\Debug\ControleVendasDAL.dll
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendas\bin\x86\Debug\ControleVendasDAL.pdb
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendas\obj\x86\Debug\ControleVendas.csprojResolveAssemblyReference.cache
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendas\obj\x86\Debug\ControleVendas.Login.resources
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendas\obj\x86\Debug\ControleVendas.Properties.Resources.resources
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendas\obj\x86\Debug\ControleVendas.csproj.GenerateResource.Cache
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendas\obj\x86\Debug\ControleVendas.exe
+D:\Projetos\Pessoal\VS_Projetos_Desktop\ControleVendas\ControleVendas\obj\x86\Debug\ControleVendas.pdb

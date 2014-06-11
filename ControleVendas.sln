@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleVendas", "ControleVendas\ControleVendas.csproj", "{8C2B9C81-BF65-4559-801B-4BF11027E2A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleVendasDAL", "ControleVendasDAL\ControleVendasDAL.csproj", "{B1D545B2-BF40-4D52-AF76-EFF45C298C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C2B9C81-BF65-4559-801B-4BF11027E2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2B9C81-BF65-4559-801B-4BF11027E2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2B9C81-BF65-4559-801B-4BF11027E2A8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8C2B9C81-BF65-4559-801B-4BF11027E2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2B9C81-BF65-4559-801B-4BF11027E2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2B9C81-BF65-4559-801B-4BF11027E2A8}.Release|x86.ActiveCfg = Release|Any CPU
+		{B1D545B2-BF40-4D52-AF76-EFF45C298C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D545B2-BF40-4D52-AF76-EFF45C298C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D545B2-BF40-4D52-AF76-EFF45C298C4F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B1D545B2-BF40-4D52-AF76-EFF45C298C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D545B2-BF40-4D52-AF76-EFF45C298C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D545B2-BF40-4D52-AF76-EFF45C298C4F}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
